@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gengar.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br>
