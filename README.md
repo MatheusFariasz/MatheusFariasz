@@ -25,12 +25,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusfariasz&bg_color=0d1117&color=9b59b6&line=7B68EE&point=ffffff&area=true&hide_border=true" />
-</div>
-
 ---
 
 <div align="center">
