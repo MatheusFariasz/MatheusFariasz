@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "profile-purple.svg",
+    "name": "profile",
     "backgroundColor": "#0d1117",
     "foregroundColor": "#ffffff",
-    "color0": "#161b22",
-    "color1": "#4B0082",
-    "color2": "#6A0DAD",
-    "color3": "#8A2BE2",
-    "color4": "#9b59b6"
+    "color0": "#1c2128",
+    "color1": "#5c2a9d",
+    "color2": "#7e3ac2",
+    "color3": "#a051e8",
+    "color4": "#d094ff"
   }
 ]
